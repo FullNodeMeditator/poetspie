@@ -6,12 +6,7 @@ nav:
 theme: readthedocs
 
 nav:
-
-
-Introduction: README.md
-
-Poetry:
-
+-Home: index.md
 - Basement Period: poetry/basement-period/README.md
   - Steps in the Estonian bog: poetry/basement-period/steps-in-the-estonian-bog.md
   - Foggy Philadelphia: poetry/basement-period/foggy-philadelphia.md
@@ -36,12 +31,8 @@ Poetry:
 - Probiotic Period: poetry/probiotic-period/README.md
   - Optimistic Rain Coming: poetry/probiotic-period/optimistic-rain-coming.md
   - 15-minute family: poetry/probiotic-period/15-minute-family.md
-
-Stories:
-
-- Little Ones: stories/little-ones.md
-- Big Ones: stories/big-ones.md
-
-Screenplays:
-
-- Swing Swing Swing: screenplays/swing-swing-swing.md
+-Stories
+    - Little Ones: stories/little-ones.md
+    - Big Ones: stories/big-ones.md
+-Screenplays:
+    - Swing Swing Swing: screenplays/swing-swing-swing.md
