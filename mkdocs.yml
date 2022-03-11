@@ -1,0 +1,6 @@
+site_name: Poets Pie
+site_url: https://poetspie.com
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
