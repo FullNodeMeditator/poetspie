@@ -1,6 +1,5 @@
 # Steps in the Estonian bog
 
-***
 
 Late for dinner\
 for love\
