@@ -41,8 +41,8 @@ theme:
     - navigation.tabs
     - toc.integrate
     - navigation.sections
-  extra:
-    generator: false
+extra:
+  generator: false
 
 markdown_extensions:
     - nl2br
