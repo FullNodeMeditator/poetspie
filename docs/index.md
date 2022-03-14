@@ -1,6 +1,6 @@
 # Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We are a poetry production company headquartered in the metaverse.  Poems are the catalyst for film, music, humor, literature and daily life.  Poets Pie 
 
 ## Commands
 

@@ -37,11 +37,12 @@ nav:
       
 theme:
   name: material
-  custom_dir: overrides
   features:
     - navigation.tabs
     - toc.integrate
     - navigation.sections
+extra:
+  generator: false
 
 markdown_extensions:
     - nl2br
