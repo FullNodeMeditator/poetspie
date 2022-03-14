@@ -1,17 +1,13 @@
 # Welcome
 
-We are a poetry production company headquartered in the metaverse.  Poems are the catalyst for film, music, humor, literature and daily life.  Poets Pie 
+Poets Pie is a production dao headquartered in the metaverse.  Our belief is that poems are the catalyst for film, music, humor, literature and daily life.  Poets Pie collaborates with poets from around the earth.  We embrace Web3 with a focused precence on the Ethereum and Dotsama ecosystems.    
 
-## Commands
+## NFTs
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Poems have always been collectable, storing them on the blockchain is our preferred archive.  Trust is an important aspect of the NFT artists / collector relationship.  We only mint NFTs editions on single chains.  For example, if we mint a video it will either be on Dotsama or Ethereum but not on both.  
 
-## Project layout
+## Podcast
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Contribute
+
