@@ -46,8 +46,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/squidfunk
-extra:     
+      link: https://twitter.com/poetspie    
   generator: false
 
 
