@@ -47,7 +47,7 @@ extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/poetspie    
-  generator: false
+  generator: false 
 
 
 markdown_extensions:
