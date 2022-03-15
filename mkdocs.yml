@@ -43,7 +43,7 @@ theme:
     - navigation.sections
 
  
-  extra:
+extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/squidfunk
