@@ -47,7 +47,8 @@ extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/squidfunk
-      generator: false
+extra:     
+  generator: false
 
 
 markdown_extensions:
