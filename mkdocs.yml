@@ -41,8 +41,14 @@ theme:
     - navigation.tabs
     - toc.integrate
     - navigation.sections
-extra:
-  generator: false
+
+ 
+  extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/squidfunk
+      generator: false
+
 
 markdown_extensions:
     - nl2br
