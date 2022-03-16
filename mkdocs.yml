@@ -41,8 +41,7 @@ theme:
     - navigation.tabs
     - toc.integrate
     - navigation.sections
-  
-custom_dir: overrides
+   custom_dir: overrides
 
  
 extra:
