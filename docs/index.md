@@ -2,7 +2,6 @@
 
 Poets Pie is a production DAO headquartered in the metaverse.  Our belief is that poems are the catalyst for film, music, humor, literature and daily life.  Poetry like all art is a health tonic that should infuse IRL and the metaverse equally.  We embrace Web3 with a focused precence on the Ethereum and Dotsama ecosystems.    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UhOpeusH1L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## NFTs
 
