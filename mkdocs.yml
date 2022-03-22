@@ -31,6 +31,9 @@ nav:
     - Stories:
       - Little Ones: stories/little-ones.md
       - Big Ones: stories/big-ones.md
+    - Songs:
+      - Tenderloin Room: tenderloinroom.md
+      - With a Mustache: withamustache.md
     - Screenplays:
       - Swing Swing Swing: screenplays/swing-swing-swing.md
 
@@ -42,7 +45,10 @@ theme:
     - toc.integrate
     - navigation.sections
    custom_dir: overrides
-
+   
+markdown_extensions:
+   - attr_list
+   - md_in_html
  
 extra:
   social:
