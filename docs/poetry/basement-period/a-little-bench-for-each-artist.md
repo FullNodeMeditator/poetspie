@@ -1,7 +1,5 @@
 # A little bench for each artist
-
 ***
-
 Yesterday I discovered a new artist
 one that died years ago
 but whose songs, writings, and interviews

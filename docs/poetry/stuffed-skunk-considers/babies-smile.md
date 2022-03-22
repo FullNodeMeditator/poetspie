@@ -1,7 +1,5 @@
 # Babies Smile
-
 ***
-
 Skunk says personal pain is broadcast, 
 harp strings shake spice flakes
 babies smile and grab food, Skunk says cherries fall, 

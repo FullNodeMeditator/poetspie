@@ -1,9 +1,4 @@
----
-coverY: 0
----
-
 # Breeding
-
 So you want to be successful in the exciting new industry of skunk breeding?  Here are five tips for achieving your skunk breeding dreams.
 
 1. Start small.  Take care of a litter of four to five skunks first.  This is enough to give you experience with different dispositions and determine if you can handle the stress of skunk care.

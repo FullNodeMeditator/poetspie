@@ -1,7 +1,5 @@
 # Shave the hog’s ear
-
 ***
-
 Shave the hog’s ear
 to make a more youthful appearance
 for the hog yearns to be young
@@ -17,5 +15,4 @@ shave the hog’s ear
 
 April 28, 2018
 Burt Beansgood
-
 ***
