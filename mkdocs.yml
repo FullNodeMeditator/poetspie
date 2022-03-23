@@ -32,8 +32,8 @@ nav:
       - Little Ones: stories/little-ones.md
       - Big Ones: stories/big-ones.md
     - Songs:
-      - Tenderloin Room: tenderloinroom.md
-      - With a Mustache: withamustache.md
+      - Tenderloin Room: songs/tenderloinroom.md
+      - With a Mustache: songs/withamustache.md
     - Screenplays:
       - Swing Swing Swing: screenplays/swing-swing-swing.md
 
