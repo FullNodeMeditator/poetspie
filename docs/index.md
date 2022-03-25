@@ -1,6 +1,6 @@
 # Welcome
 
-Poets Pie is a production [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization).  Our belief is that poems are the catalyst for film, music, humor, literature and daily life.  Poetry like all art is a health tonic that should infuse IRL and the metaverse equally.  We embrace Web3 with a multichain perspective.    
+Poets Pie is a production [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization).  Our belief is that poems are the catalyst for the arts and daily life.  Poetry like all art is a health tonic that should infuse real life and the metaverse equally.  We embrace Web3 with a multichain perspective.    
 
 
 ## Collectibles
