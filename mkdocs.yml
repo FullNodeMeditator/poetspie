@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: Poets Pie
-site_url: https://poetspie.com
+site_name: FullNode Meditator
+site_url: fullnodemeditator.eth.link
 nav:
     - Home: index.md
     - Basement Poems:
