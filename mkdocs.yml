@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: Burtbeansgood.xyz
+site_name: Burtbeansgood
 site_url: Burtbeansgood.xyz
 nav:
     - Home: index.md
