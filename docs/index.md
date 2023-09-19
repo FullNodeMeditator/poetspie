@@ -1,6 +1,7 @@
 # Welcome
 
-Poetry like all art is a health tonic.   
+Poetry like all art is a health tonic.  
+![Bert Beansgood](bertbeansgood.png)
 
 
 ## Collectibles
